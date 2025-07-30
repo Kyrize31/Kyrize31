@@ -19,7 +19,7 @@ Kalau nemu hal menarik, aku bisa tenggelam berjam-jam buat eksplor. Entah itu te
 - 🌐 Saat ini fokus mengembangkan:
   - **Web Portofolio** pribadi sebagai showcase skill dan perjalanan belajar saya.
   - **Website SIAKAD** (Sistem Akademik Kampus) — backend-nya kompleks dan jadi tantangan besar buat saya.
-  - Beberapa **web sederhana** seperti HTML interaktif untuk teman-teman. Bukan buat bucin (itu cringe), tapi lebih ke web yang punya elemen personal atau lucu buat dibagikan.
+  - Beberapa **web sederhana** seperti HTML interaktif untuk teman-teman. Tapi lebih ke web yang punya elemen personal atau lucu buat dibagikan.
 
 ---
 
