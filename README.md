@@ -1,41 +1,44 @@
 # 👋 Hello, I'm Kyrize31!
 
-Welcome to my GitHub profile! You’ve just stepped into tempat seorang mahasiswa yang mikirnya kayak engineer, ngodingnya kayak hacker, dan hidupnya kayak benchmark tester ⚙️🔥
+Welcome to my GitHub profile!  
+Saat ini aku lagi serius ngejar ketertinggalan dalam dunia coding — bukan karena tuntutan, tapi karena rasa ingin tahu yang besar.  
+Kalau nemu hal menarik, aku bisa tenggelam berjam-jam buat eksplor. Entah itu teknologi baru, proyek unik, atau cuma nyari cara gimana biar laptop kentangku bisa maksimal.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Mahasiswa Teknik Informatika yang hobi utak-atik sistem, dari server sampai OS HP.
-- 🧠 Selalu cari cara **paling efisien dan optimal** buat ngejalanin apapun — baik itu coding, main game di laptop kentang, sampai ngelive dengan resource minim.
-- 🖥️ **Contohnya?**
-  - Main **EA FC25** dengan **Strand Hair ON** di laptop RTX 3050 Ti 4GB — setelah tweaking setting, driver, dan V-Sync sampai stabil 60 FPS. Karena performa boleh pas-pasan, tapi style? Harus maksimal 😎
-  - Pakai **GhostSpectre Windows 10 Lite** biar bisa streaming dan multitasking tanpa lag-lag club.
-  - Sejak SD udah pakai **Custom ROM Android**, karena stock ROM itu terlalu *basic* buat saya.
-- 📷 Seorang *occasional live streamer*, biasanya nge-live di Discord pakai facecam dan OBS dengan setup hemat resource tapi tetap niat (kadang ngasih overlay lucu juga 😆).
-- 💻 Sekarang lagi ngembangin:
-  - **FocusGuard**: Sistem deteksi fokus belajar berbasis deteksi wajah & arah pandang via webcam, overlay layar putih kalau mulai ngelamun.
-  - **Smart Chatbot**: Bisa simpan konteks, bantu ngerjain tugas, bahkan potensi belajar mandiri ke depannya.
+- 🎓 Mahasiswa Teknik Informatika semester 6 yang sedang fokus mengejar pemahaman teknikal dari nol secara mandiri.
+- 🔍 Punya rasa penasaran tinggi: suka banget ngebongkar teknologi, nyari tau "kenapa bisa gitu", dan bikin solusi praktis dari keterbatasan.
+- 🖥️ Contoh nyata:
+  - Sering optimasi performa laptop untuk gaming & streaming agar tetap lancar meskipun spesifikasi terbatas.
+  - Pakai **GhostSpectre** Windows supaya sistem ringan & cocok buat kebutuhan multitasking dan live stream.
+  - Sejak SD udah pake **Custom ROM Android**, karena stock ROM itu terlalu default buat selera saya.
+  - **Windows Defender? Dimatikan permanen.** Lebih rawan? Iya. Tapi hasilnya: sistem lebih ringan dan nggak diganggu notifikasi.
+- 💻 Saya sangat suka desain, dan karena itu lebih tertarik ke dunia **frontend development** — baik itu styling, layouting, sampai animasi interaktif kecil.
+- 🌐 Saat ini fokus mengembangkan:
+  - **Web Portofolio** pribadi sebagai showcase skill dan perjalanan belajar saya.
+  - **Website SIAKAD** (Sistem Akademik Kampus) — backend-nya kompleks dan jadi tantangan besar buat saya.
+  - Beberapa **web sederhana** seperti HTML interaktif untuk teman-teman. Bukan buat bucin (itu cringe), tapi lebih ke web yang punya elemen personal atau lucu buat dibagikan.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: Java, Python, PHP, JavaScript
-- **Frameworks**: Laravel (11), Tailwind CSS, Laravel Breeze, React
+- **Languages**: PHP, JavaScript, Python, Java
+- **Frameworks**: Laravel (11), Tailwind CSS, Laravel Breeze, Bootstrap
+- **Databases**: MySQL
 - **Tools & Platforms**: Laragon, Electron, face-api.js, Ngrok, OBS, Discord API, VS Code
-- **Database**: MySQL
-- **Modding & Optimization**: GhostSpectre, Custom ROMs, V-Sync tweaks, NVIDIA Control Panel magic
+- **Modding & Optimization**: GhostSpectre, Custom ROM Android, NVIDIA Control Panel tweaks
+- **Focus Area**: Frontend design & interaction — karena koding juga harus estetik ✨
 
 ---
 
-## 🎯 Skillset Mentality
+## 💡 Filosofi Teknologi
 
-> Saya percaya bahwa keterbatasan bukan hambatan — justru jadi ladang kreativitas.  
-> Laptop kentang? Bisa.  
-> OS berat? Dioprek.  
-> Task ribet? Disederhanakan.  
-> Pokoknya semua harus **praktis dan optimal**.
+> “Aku nggak selalu tahu cara paling canggih,  
+> tapi aku selalu nyari cara **paling efisien & praktis**.  
+> Kalau bisa jalan, kenapa harus ribet?”
 
 ---
 
