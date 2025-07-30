@@ -2,32 +2,29 @@
 
 Welcome to my GitHub profile!  
 Aku sedang **benar-benar serius mengejar ketertinggalan dalam dunia coding**.  
-Sebagai mahasiswa semester 6 di Teknik Informatika, aku sadar bahwa ilmu yang kupunya masih jauh dari cukup, dan ada **gap besar** antara aku dan teman-teman seangkatanku.  
-Kesadaran itu jadi motivasi kuat buat terus belajar, ngulik, dan mencoba hal baru — bukan karena terpaksa, tapi karena aku tahu aku bisa lebih berkembang kalau konsisten.
+Sebagai mahasiswa semester 6 di Teknik Informatika, aku sadar bahwa ilmu yang kumiliki masih sangat terbatas. Melihat gap yang cukup besar antara diriku dan teman-teman seangkatan jadi motivasi besar untuk terus belajar dan berkembang.  
+Bukan karena terpaksa, tapi karena aku tahu aku bisa lebih.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Mahasiswa Teknik Informatika semester 6 yang sedang fokus mengejar pemahaman teknikal dari nol secara mandiri.
-- 🔍 Punya rasa penasaran tinggi: suka banget ngebongkar teknologi, nyari tau "kenapa bisa gitu", dan bikin solusi praktis dari keterbatasan.
-- 🖥️ Contoh nyata:
-  - Sering optimasi performa laptop untuk gaming & streaming agar tetap lancar meskipun spesifikasi terbatas.
-  - Pakai **GhostSpectre** Windows supaya sistem ringan & cocok buat kebutuhan multitasking dan live stream.
-  - Sejak SD udah pake **Custom ROM Android**, karena stock ROM itu terlalu default buat selera saya.
-  - **Windows Defender? Dimatikan permanen.** Lebih rawan? Iya. Tapi hasilnya: sistem lebih ringan dan nggak diganggu notifikasi.
-- 💻 Saya sangat suka desain, dan karena itu lebih tertarik ke dunia **frontend development** — baik itu styling, layouting, sampai animasi interaktif kecil.
-- 🌐 Saat ini fokus mengembangkan:
-  - **Web Portofolio** pribadi sebagai showcase skill dan perjalanan belajar saya.
-  - **Website SIAKAD** (Sistem Akademik Kampus) — backend-nya kompleks dan jadi tantangan besar buat saya.
-  - Beberapa **web sederhana** seperti HTML interaktif untuk teman-teman. Tapi lebih ke web yang punya elemen personal atau lucu buat dibagikan.
+- 🔍 Punya rasa penasaran tinggi — suka banget ngulik teknologi, mencoba hal-hal baru, dan mencari cara paling efisien untuk menyelesaikan sesuatu.
+- 🎮 Sering optimasi sistem agar bisa gaming dan streaming di laptop dengan spesifikasi terbatas. Hal-hal seperti tweak OS, kontrol driver, dan pengaturan resource adalah bagian dari keseharian.
+- 💻 Sejak SD udah pakai **Custom ROM Android**, dan sekarang pakai **GhostSpectre Windows** untuk performa ringan dan optimal.
+- 🔥 Bahkan **Windows Defender pun dimatikan permanen** demi performa ekstra (dengan kesadaran risiko, tentu saja).
+- 🎨 Suka desain dan tampilan — itu sebabnya aku cenderung tertarik ke **frontend development**, terutama saat membuat HTML interaktif yang lucu dan personal.
+- 🌐 Saat ini fokus membangun:
+  - **Web portofolio pribadi** sebagai etalase skill dan progres belajarku.
+  - **Website SIAKAD** yang kompleks secara backend, sebagai latihan nyata memahami struktur aplikasi skala besar.
+  - Beberapa **web sederhana** yang dikirim ke teman-teman, bukan buat bucin (karena menurutku itu cringe), tapi lebih ke iseng kreatif yang tetap fungsional.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages**: PHP, JavaScript, Python, Java
-- **Frameworks**: Laravel (12), Tailwind CSS, Laravel Breeze, Bootstrap
+- **Frameworks**: Laravel (11), Tailwind CSS, Laravel Breeze, Bootstrap
 - **Databases**: MySQL
 - **Tools & Platforms**: Laragon, Electron, face-api.js, Ngrok, OBS, Discord API, VS Code
 - **Modding & Optimization**: GhostSpectre, Custom ROM Android, NVIDIA Control Panel tweaks
