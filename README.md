@@ -1,8 +1,9 @@
 # 👋 Hello, I'm Kyrize31!
 
 Welcome to my GitHub profile!  
-Saat ini aku lagi serius ngejar ketertinggalan dalam dunia coding — bukan karena tuntutan, tapi karena rasa ingin tahu yang besar.  
-Kalau nemu hal menarik, aku bisa tenggelam berjam-jam buat eksplor. Entah itu teknologi baru, proyek unik, atau cuma nyari cara gimana biar laptop kentangku bisa maksimal.
+Aku sedang **benar-benar serius mengejar ketertinggalan dalam dunia coding**.  
+Sebagai mahasiswa semester 6 di Teknik Informatika, aku sadar bahwa ilmu yang kupunya masih jauh dari cukup, dan ada **gap besar** antara aku dan teman-teman seangkatanku.  
+Kesadaran itu jadi motivasi kuat buat terus belajar, ngulik, dan mencoba hal baru — bukan karena terpaksa, tapi karena aku tahu aku bisa lebih berkembang kalau konsisten.
 
 ---
 
