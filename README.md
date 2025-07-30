@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello, I'm Kyrize31!
 
-<!--
-**Kyrize31/Kyrize31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, learning new technologies, and building cool projects. Here, you'll find a collection of my repositories showcasing my journey in the world of programming.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning: Laravel
+- 📫 How to reach me: kazuukyrielight@gmail.com
+- ⚡ Fun fact: I like to modify my android, It's like an obligation every time you buy a new Android
+
+## 🛠️ Technologies & Tools
+
+Here are some of the technologies and tools I use:
+
+- **Programming Languages**: Python & Java
+- **Frameworks & Libraries**: Laravel, Boostrap, Tailwind, React
+- **Databases**: MySQL
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyrize31&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrize31&layout=compact&theme=radical)
+
+## 🌟 Support Me
+
+If you find my work interesting or helpful, consider supporting me:
+
+- [Buy Me a Coffee](https://saweria.co/Kyrize))
+- [Sponsor Me on GitHub](https://github.com/sponsors/Kyrize31)
+- [Twitter](https://twitter.com/yourhandle)
+- [Email](mailto:youremail@example.com)
+
+---
+
+⭐️ From [Kyrize31](https://github.com/Kyrize31)
