@@ -26,7 +26,7 @@ Kalau nemu hal menarik, aku bisa tenggelam berjam-jam buat eksplor. Entah itu te
 ## 🛠️ Tech Stack
 
 - **Languages**: PHP, JavaScript, Python, Java
-- **Frameworks**: Laravel (11), Tailwind CSS, Laravel Breeze, Bootstrap
+- **Frameworks**: Laravel (12), Tailwind CSS, Laravel Breeze, Bootstrap
 - **Databases**: MySQL
 - **Tools & Platforms**: Laragon, Electron, face-api.js, Ngrok, OBS, Discord API, VS Code
 - **Modding & Optimization**: GhostSpectre, Custom ROM Android, NVIDIA Control Panel tweaks
