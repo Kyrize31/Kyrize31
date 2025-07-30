@@ -26,10 +26,12 @@ Here are some of the technologies and tools I use:
 
 If you find my work interesting or helpful, consider supporting me:
 
-- [Buy Me a Coffee](https://saweria.co/Kyrize))
+- [Buy Me a Coffee]
+- [On Trakteer](https://trakteer.id/urkyrize/tip)
+- [On Saweria](https://saweria.co/Kyrize)
 - [Sponsor Me on GitHub](https://github.com/sponsors/Kyrize31)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:youremail@example.com)
+- [Twitter](https://www.tiktok.com/@fhrrzyx_)
+- [Email](kazuukyrielight@gmail.com)
 
 ---
 
