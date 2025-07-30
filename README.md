@@ -16,15 +16,14 @@ Bukan karena terpaksa, tapi karena aku tahu aku bisa lebih.
 - 🎨 Suka desain dan tampilan — itu sebabnya aku cenderung tertarik ke **frontend development**, terutama saat membuat HTML interaktif yang lucu dan personal.
 - 🌐 Saat ini fokus membangun:
   - **Web portofolio pribadi** sebagai etalase skill dan progres belajarku.
-  - **Website SIAKAD** yang kompleks secara backend, sebagai latihan nyata memahami struktur aplikasi skala besar.
-  - Beberapa **web sederhana** yang dikirim ke teman-teman, bukan buat bucin (karena menurutku itu cringe), tapi lebih ke iseng kreatif yang tetap fungsional.
+  - Beberapa **web sederhana** yang dikirim ke teman-teman, web iseng kreatif yang tetap fungsional.
 
 ---
 
 ## 🛠️ Tech Stack
 
 - **Languages**: PHP, JavaScript, Python, Java
-- **Frameworks**: Laravel (11), Tailwind CSS, Laravel Breeze, Bootstrap
+- **Frameworks**: Laravel, Tailwind CSS, Laravel Breeze, Bootstrap
 - **Databases**: MySQL
 - **Tools & Platforms**: Laragon, Electron, face-api.js, Ngrok, OBS, Discord API, VS Code
 - **Modding & Optimization**: GhostSpectre, Custom ROM Android, NVIDIA Control Panel tweaks
