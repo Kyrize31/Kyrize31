@@ -1,84 +1,85 @@
-# 👋 Hi, I'm Kyrize31 (aka Zii)
+# 👋 Hi, I'm Kyrize31 (aka Zii) ✨
 
-Welcome to my GitHub.  
-Aku mahasiswa Teknik Informatika **semester 8** yang saat ini **sedang dalam proses pengerjaan Proyek Akhir**.
+Welcome to my GitHub!  
+Aku mahasiswa Teknik Informatika **semester 8** yang saat ini **sedang dalam proses pengerjaan Proyek Akhir** 🎓
 
-Aku nggak datang dengan cerita “jago sejak lahir”.  
-Justru sebaliknya — repo ini adalah **catatan proses naik level**, trial-error, dan eksperimen yang kadang gagal tapi selalu ngajarin sesuatu.
+Aku nggak datang dengan cerita *“jago sejak lahir”*.  
+Repo ini lebih ke **catatan proses naik level** — trial-error, eksperimen gagal, fitur deprecated, dan hal-hal kecil yang pelan-pelan ngebentuk cara berpikirku.
 
-Kalau kamu nemu kode yang belum rapi atau fitur yang deprecated:  
-yes, that’s part of the journey.
+Kalau nemu kode yang belum rapi:  
+yes, that’s part of the journey 🚧
 
 ---
 
 ## 🚀 About Me
 
-- 🧠 Rasa penasaran tinggi — suka bongkar sistem, ngetes limit, dan cari solusi paling **efisien**, bukan paling ribet.
-- 🎮 Terbiasa optimasi laptop spek terbatas buat **gaming & streaming** (OS tweak, driver, resource control).
-- 💻 Punya latar belakang **custom ROM Android** dan OS lightweight (GhostSpectre Windows).
-- ⚠️ Beberapa eksperimen ekstrem (misalnya mematikan Defender) **pernah dilakukan untuk eksplorasi**, tapi tidak selalu dipakai di setup harian.
-- 🎨 Lebih tertarik ke **frontend** — karena UI yang enak dilihat bikin orang betah, dan itu penting.
-- 📚 Saat ini membagi fokus antara **kuliah, Proyek Akhir**, dan ngoding sebisanya (kadang konsisten, kadang enggak — realistis).
+- 🧠 Tipe yang **nggak betah nerima sistem apa adanya** — kalau ada yang terasa lambat, ribet, atau nggak efisien, refleks pertamaku selalu: *“ini bisa disederhanakan nggak?”*
+- 🎮 Terbiasa hidup di kondisi **hardware terbatas**, jadi performa itu bukan teori. Setting game, OS tweak, driver, sampai kompromi visual vs FPS adalah makanan sehari-hari.
+- 🎧 Punya ketertarikan kuat ke **audio & detail teknis kecil** (latency, clarity, tuning). Ini bikin aku cukup rewel soal kualitas, bahkan di hal yang sering dianggap sepele.
+- 💻 Dari kecil akrab sama **custom ROM Android**, lalu lanjut ke OS lightweight & sistem modifikasi — bukan sekadar ikut tren, tapi buat ngerti *kenapa* sesuatu bisa lebih ringan atau lebih cepat.
+- 🎨 Condong ke **frontend**, tapi bukan cuma soal tampilan. Aku peduli ke **user experience**, interaksi, dan rasa nyaman saat sesuatu dipakai.
+- 🧪 Sering bikin project kecil, iseng, atau eksperimental — sebagian gagal, sebagian deprecated, sebagian kepakai beneran sama teman.
+- 📚 Sekarang di **semester 8**, fokus utama jelas ke **Proyek Akhir**, sambil tetap ngoding sebisanya. Nggak selalu konsisten, tapi nggak pernah benar-benar berhenti.
 
 ---
 
-## 🛠️ Tech Stack (Current & Past Usage)
+## 🛠️ Tech Stack
 
-> Catatan jujur: tidak semua tool di bawah sedang aktif dipakai di semua project.
+> ⚠️ Tidak semua teknologi di bawah aktif dipakai di semua project.
 
-### Languages
+### 🧩 Languages
 - PHP  
 - JavaScript  
 - Python  
 - Java  
 
-### Frameworks & Styling
+### 🎨 Frameworks & Styling
 - Laravel  
 - Tailwind CSS  
 - Bootstrap  
 - Laravel Breeze  
 
-### Database
+### 🗄️ Database
 - MySQL  
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 - Laragon  
 - VS Code  
 - OBS  
 - Discord API  
 
-### Experimental / Past Projects
+### 🧪 Experimental / Past Projects
 - Electron  
 - face-api.js  
 - Ngrok  
 
 ---
 
-## 🧪 About This GitHub
+## 🧭 About This GitHub
 
-- Beberapa repo:
-  - 🚧 **Masih eksperimen**
-  - 🧊 **Sudah deprecated**
-  - 🔧 **Sedang / belum sempat direfaktor**
-- README & fitur di-update **kalau sempat dan kalau relevan**.
-- Repo ini lebih ke **learning log publik** daripada showcase sempurna.
+- Isi repo campur:
+  - 🚧 **Eksperimen**
+  - 🧊 **Deprecated**
+  - 🔧 **Belum sempat dirapihin**
+- README & fitur di-update **kalau relevan dan kalau sempat**.
+- Repo ini lebih ke **learning log publik**, bukan etalase sempurna.
 
 Kalau kamu cari:
-- kode super rapi → belum tentu  
-- progres nyata → ada  
-- niat buat kelar kuliah → iya
+- ✨ kode super bersih → belum tentu  
+- 📈 progres nyata → ada  
+- 🎯 niat kelar kuliah → iya  
 
 ---
 
 ## 💡 Mindset
 
-> “Nggak harus paling canggih.  
+> 💬 *“Nggak harus paling canggih.  
 > Yang penting ngerti kenapa sesuatu bekerja —  
-> dan tahu kapan itu **nggak** bekerja.”
+> dan sadar kapan itu **nggak** bekerja.”*
 
 ---
 
-## 📫 Connect
+## 📫 Connect with Me
 
 - 📩 Email: **kazuukyrielight@gmail.com**  
 - 📸 Instagram: [@fhrrzyx__](https://www.instagram.com/fhrrzyx__)  
@@ -90,10 +91,14 @@ Kalau kamu cari:
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyrize31&show_icons=true&hide_border=true&theme=transparent&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrize31&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800)
 
+</div>
+
 ---
 
-⭐️ Documenting the climb — imperfect, but honest.
+⭐️ *Documenting the climb — imperfect, but honest.*
