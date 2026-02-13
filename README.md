@@ -18,7 +18,7 @@ yes, that’s part of the journey.
 - 💻 Punya latar belakang **custom ROM Android** dan OS lightweight (GhostSpectre Windows).
 - ⚠️ Beberapa eksperimen ekstrem (misalnya mematikan Defender) **pernah dilakukan untuk eksplorasi**, tapi tidak selalu dipakai di setup harian.
 - 🎨 Lebih tertarik ke **frontend** — karena UI yang enak dilihat bikin orang betah, dan itu penting.
-- 📚 Saat ini sedang membagi fokus antara **kuliah, Proyek Akhir**, dan ngoding sebisanya (nggak selalu konsisten, tapi tetap jalan).
+- 📚 Saat ini membagi fokus antara **kuliah, Proyek Akhir**, dan ngoding sebisanya (kadang konsisten, kadang enggak — realistis).
 
 ---
 
@@ -66,7 +66,7 @@ yes, that’s part of the journey.
 Kalau kamu cari:
 - kode super rapi → belum tentu  
 - progres nyata → ada  
-- niat buat belajar & kelar kuliah → iya
+- niat buat kelar kuliah → iya
 
 ---
 
@@ -81,6 +81,8 @@ Kalau kamu cari:
 ## 📫 Connect
 
 - 📩 Email: **kazuukyrielight@gmail.com**  
+- 📸 Instagram: [@fhrrzyx__](https://www.instagram.com/fhrrzyx__)  
+- 🎥 TikTok: [@fhrrzyx_](https://www.tiktok.com/@fhrrzyx_)  
 - 🌐 Linktree: https://linktr.ee/Kyrize  
 - 💖 GitHub Sponsor: https://github.com/sponsors/Kyrize31  
 
@@ -88,9 +90,9 @@ Kalau kamu cari:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyrize31&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyrize31&show_icons=true&hide_border=true&theme=transparent&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrize31&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrize31&layout=compact&hide_border=true&theme=transparent&cache_seconds=1800)
 
 ---
 
