@@ -1,60 +1,97 @@
-# 👋 Hello, I'm Kyrize31!
+# 👋 Hi, I'm Kyrize31 (aka Zii)
 
-Welcome to my GitHub profile!  
-Aku sedang **benar-benar serius mengejar ketertinggalan dalam dunia coding**.  
-Sebagai mahasiswa semester 6 di Teknik Informatika, aku sadar bahwa ilmu yang kumiliki masih sangat terbatas. Melihat gap yang cukup besar antara diriku dan teman-teman seangkatan jadi motivasi besar untuk terus belajar dan berkembang.  
-Bukan karena terpaksa, tapi karena aku tahu aku bisa lebih.
+Welcome to my GitHub.  
+Aku mahasiswa Teknik Informatika **semester 8** yang saat ini **sedang dalam proses pengerjaan Proyek Akhir**.
+
+Aku nggak datang dengan cerita “jago sejak lahir”.  
+Justru sebaliknya — repo ini adalah **catatan proses naik level**, trial-error, dan eksperimen yang kadang gagal tapi selalu ngajarin sesuatu.
+
+Kalau kamu nemu kode yang belum rapi atau fitur yang deprecated:  
+yes, that’s part of the journey.
 
 ---
 
 ## 🚀 About Me
 
-- 🔍 Punya rasa penasaran tinggi — suka banget ngulik teknologi, mencoba hal-hal baru, dan mencari cara paling efisien untuk menyelesaikan sesuatu.
-- 🎮 Sering optimasi sistem agar bisa gaming dan streaming di laptop dengan spesifikasi terbatas. Hal-hal seperti tweak OS, kontrol driver, dan pengaturan resource adalah bagian dari keseharian.
-- 💻 Sejak SD udah pakai **Custom ROM Android**, dan sekarang pakai **GhostSpectre Windows** untuk performa ringan dan optimal.
-- 🔥 Bahkan **Windows Defender pun dimatikan permanen** demi performa ekstra (dengan kesadaran risiko, tentu saja).
-- 🎨 Suka desain dan tampilan — itu sebabnya aku cenderung tertarik ke **frontend development**, terutama saat membuat HTML interaktif yang lucu dan personal.
-- 🌐 Saat ini fokus membangun:
-  - **Web portofolio pribadi** sebagai etalase skill dan progres belajarku.
-  - Beberapa **web sederhana** yang dikirim ke teman-teman, web iseng kreatif yang tetap fungsional.
+- 🧠 Rasa penasaran tinggi — suka bongkar sistem, ngetes limit, dan cari solusi paling **efisien**, bukan paling ribet.
+- 🎮 Terbiasa optimasi laptop spek terbatas buat **gaming & streaming** (OS tweak, driver, resource control).
+- 💻 Punya latar belakang **custom ROM Android** dan OS lightweight (GhostSpectre Windows).
+- ⚠️ Beberapa eksperimen ekstrem (misalnya mematikan Defender) **pernah dilakukan untuk eksplorasi**, tapi tidak selalu dipakai di setup harian.
+- 🎨 Lebih tertarik ke **frontend** — karena UI yang enak dilihat bikin orang betah, dan itu penting.
+- 📚 Saat ini sedang membagi fokus antara **kuliah, Proyek Akhir**, dan ngoding sebisanya (nggak selalu konsisten, tapi tetap jalan).
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Current & Past Usage)
 
-- **Languages**: PHP, JavaScript, Python, Java
-- **Frameworks**: Laravel, Tailwind CSS, Laravel Breeze, Bootstrap
-- **Databases**: MySQL
-- **Tools & Platforms**: Laragon, Electron, face-api.js, Ngrok, OBS, Discord API, VS Code
-- **Modding & Optimization**: GhostSpectre, Custom ROM Android, NVIDIA Control Panel tweaks
-- **Focus Area**: Frontend design & interaction — karena koding juga harus estetik ✨
+> Catatan jujur: tidak semua tool di bawah sedang aktif dipakai di semua project.
+
+### Languages
+- PHP  
+- JavaScript  
+- Python  
+- Java  
+
+### Frameworks & Styling
+- Laravel  
+- Tailwind CSS  
+- Bootstrap  
+- Laravel Breeze  
+
+### Database
+- MySQL  
+
+### Tools & Platforms
+- Laragon  
+- VS Code  
+- OBS  
+- Discord API  
+
+### Experimental / Past Projects
+- Electron  
+- face-api.js  
+- Ngrok  
 
 ---
 
-## 💡 Filosofi Teknologi
+## 🧪 About This GitHub
 
-> “Aku nggak selalu tahu cara paling canggih,  
-> tapi aku selalu nyari cara **paling efisien & praktis**.  
-> Kalau bisa jalan, kenapa harus ribet?”
+- Beberapa repo:
+  - 🚧 **Masih eksperimen**
+  - 🧊 **Sudah deprecated**
+  - 🔧 **Sedang / belum sempat direfaktor**
+- README & fitur di-update **kalau sempat dan kalau relevan**.
+- Repo ini lebih ke **learning log publik** daripada showcase sempurna.
+
+Kalau kamu cari:
+- kode super rapi → belum tentu  
+- progres nyata → ada  
+- niat buat belajar & kelar kuliah → iya
 
 ---
 
-## 📫 Let's Connect!
+## 💡 Mindset
 
-- 📩 Email: kazuukyrielight@gmail.com  
-- 📸 Instagram: [@fhrrzyx__](https://www.instagram.com/fhrrzyx__)  
-- 🎥 TikTok: [@fhrrzyx_](https://www.tiktok.com/@fhrrzyx_)  
-- ☕ Support Me on [Trakteer](https://trakteer.id/urkyrize/tip) atau [Saweria](https://saweria.co/Kyrize)  
-- 💖 [Sponsor Me on GitHub](https://github.com/sponsors/Kyrize31)
+> “Nggak harus paling canggih.  
+> Yang penting ngerti kenapa sesuatu bekerja —  
+> dan tahu kapan itu **nggak** bekerja.”
+
+---
+
+## 📫 Connect
+
+- 📩 Email: **kazuukyrielight@gmail.com**  
+- 🌐 Linktree: https://linktr.ee/Kyrize  
+- 💖 GitHub Sponsor: https://github.com/sponsors/Kyrize31  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyrize31&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kyrize31&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrize31&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrize31&layout=compact&theme=radical)
 
 ---
 
-⭐️ From [Kyrize31](https://github.com/Kyrize31)
+⭐️ Documenting the climb — imperfect, but honest.
